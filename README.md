@@ -6,4 +6,5 @@ This is a Program that can filter out Messages out of an Export from https://git
 This Program was requested by @alexcodez
  - [x] Make the code work.
  - [ ] Fix the horrible text at the start.
+ - [ ] Remove Alex from the repository because he's doing shit.
 # Have Fun!
